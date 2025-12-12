@@ -1,8 +1,6 @@
 # A Hybrid Transformer-Mamba Approach for Misinformation Quantification
 
-This repository provides the dataset and code used in the paper:
-
-# “Beyond Transformers: A Hybrid Transformer-Mamba Approach to Quantify Misinformation for Multiclass Relation Extraction”
+This repository provides the dataset and code used in the paper: “Beyond Transformers: A Hybrid Transformer-Mamba Approach to Quantify Misinformation for Multiclass Relation Extraction”
 
 
 # Dataset Description
