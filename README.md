@@ -1,4 +1,4 @@
-# A Hybrid Transformer-Mamba Approach for Misinformation RE Dataset
+# A Hybrid Transformer-Mamba Approach for Misinformation Quantification
 
 This repository provides the dataset and code used in the paper:
 
