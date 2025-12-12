@@ -9,15 +9,15 @@ This repository provides the dataset and code used in the paper:
 
 The released data consists of the curated multiclass relation extraction dataset for misinformation analysis across four domains:
 
-# Crime
-# Entertainment
-# Finance
-# Politics
+1. Crime
+2. Entertainment
+3. Finance
+4. Politics
 
 
 
 # Models Used
 
-Transformer models (BERT, DeBERTa, BERTweet, PoliBERTweet, FinBERT)
-Mamba (state-space model)
-Hybrid (DeBERTa + Mamba) with gated fusion
+1. Transformer models (BERT, DeBERTa, BERTweet, PoliBERTweet, FinBERT)
+2. Mamba (state-space model)
+3. Hybrid (DeBERTa + Mamba) with gated fusion
